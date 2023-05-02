@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+
+#index{
+	background-color: #9ABDE8;
+	font-family: 'Cinzel',cursive;
+	font-size: 25px;
+}
+#home{
+	background-color: #9ABDE8;
+	font-family: 'Cinzel',cursive;
+	font-size: 25px;
+	text-align: center;
+}
+#register{
+	color: ;
+	background-color: #E88B39;
+	font-family: 'Cinzel',cursive;
+	font-size: 25px;
+}
+#foods_and_bevereges{
+	background-color: #E88B39;
+	font-family: 'Cinzel',cursive;
+	font-size: 25px;
+}
+#account{
+	background-color: #E88B39;
+	font-family: 'Cinzel',cursive;
+	font-size: 25px;
+}
+#clothes{
+	background-color: #DCE840;
+	background-image: C:\Users\kamon\Downloads\f55590cf009e10ad0fe795fe56b6ae25.jpg;
+	font-family: 'Cinzel',cursive;
+	font-size: 25px;
+}
+#electronics{
+	background-color: #E88B39;
+	font-family: 'Cinzel',cursive;
+	font-size: 25px;
+}
+#stationery{
+	background-color: #E88B39;
+	font-family: 'Cinzel',cursive;
+	font-size: 25px;
+}
+table img{
+  width:200px;
+  height: 300px;
+}
+#sign{
+float: right;
+background-color: #E88B39;
+	font-family: 'Cinzel',cursive;
+	font-size: 25px;
+}
+
+.products{
+	width: 80%;
+	border-radius: 45%;
+	border: dashed;
+}
